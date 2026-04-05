@@ -100,7 +100,7 @@ a:hover{
     border-radius: 250px;
     transition: 0.8s ease;
     margin-top: 80px;
-}
+} 
 .self-image:hover {
     transform: translateY(-10px);
     box-shadow: 0 30px 60px rgba(0, 212, 255, 0.4);
@@ -500,6 +500,7 @@ a:hover{
         padding: 20px;
         gap: 20px;
         transition: 0.4s ease;
+        border-radius: 5px;
     }
 
     .links.active{
@@ -530,6 +531,7 @@ a:hover{
     .self-image{
         width: 90%;
         max-width: 300px;
+        margin-left: 19px;
     }
 
 
